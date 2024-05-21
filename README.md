@@ -4,6 +4,9 @@ Overview
 
 This project aims to read analog inputs from an ESP32 and display the corresponding waveforms on an OLED display and the Serial Plotter. The project utilizes the Adafruit_GFX and Adafruit_SSD1306 libraries for OLED display handling, and the analog inputs are sampled and visualized.
 
+Wokwi simulation
+https://wokwi.com/projects/398313390338233345
+
 Hardware Requirements
 
 ESP32
